@@ -1,0 +1,2 @@
+# 零第三方依赖：只用 Python 标准库（http.server / urllib / ssl / threading）
+# 此文件留空即可，平台看到它是纯标准库项目
